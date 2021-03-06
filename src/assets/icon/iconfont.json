@@ -1,0 +1,16 @@
+{
+  "id": "2389851",
+  "name": "douyin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12189924",
+      "name": "音符",
+      "font_class": "yinfu",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    }
+  ]
+}
